@@ -1,5 +1,5 @@
 # Name of workflow
-name: Development workflow
+name: Pre Development workflow
 
 # When workflow is triggered
 on:
